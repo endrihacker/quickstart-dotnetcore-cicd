@@ -41,7 +41,7 @@ Parameters:
   GitHubBranchName:
     Type: String
     Description: Name of the GitHub branch that the CI/CD pipeline will pull from.
-    Default: 'main'
+    Default: 'staging'
   GitHubOwner:
     Type: String
     Description: User name for accessing the GitHub repository.
